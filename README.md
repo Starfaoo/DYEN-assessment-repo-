@@ -1,4 +1,4 @@
-link to assessments
+links to assessments
 
 
 HTML
@@ -32,3 +32,9 @@ https://starfaoo.github.io/fundamental-layout-comprehension/
 JAVASCRIPT
 
 https://starfaoo.github.io/Silly-story-generator/
+
+https://starfaoo.github.io/Image-Gallery/
+
+https://starfaoo.github.io/Sequencing-animations/
+
+https://starfaoo.github.io/Adding-features-to-our-bouncing-balls-demo/
