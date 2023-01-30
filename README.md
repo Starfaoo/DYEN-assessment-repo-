@@ -3,11 +3,11 @@ links to assessments and repositories.
 
 HTML
 
-https://starfaoo.github.io/Mozilla-splash-page/
+https://starfaoo.github.io/Mozilla-splash-page/                           
 https://github.com/Starfaoo/Mozilla-splash-page
 
 
-https://starfaoo.github.io/Structuring-a-page-of-content/
+https://starfaoo.github.io/Structuring-a-page-of-content/                          
 https://github.com/Starfaoo/Structuring-a-page-of-content
 
 
